@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gkmicro.fightagainstcovid_2019">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+       <activity android:name=".MainActivity">
+           <intent-filter>
+               <action android:name="android.intent.action.MAIN" />
+
+               <category android:name="android.intent.category.LAUNCHER" />
+           </intent-filter>
+       </activity>
+        <activity android:name=".questionnaire">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Finer">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FirstPage">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Other">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Another">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondPage">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ThirdPage">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions1">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions2">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions3">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions4">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Suggestions5">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts1">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts2">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts3">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts4">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+    </activity>
+        <activity android:name=".Impfacts5">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Impfacts6">
+            <intent-filter>
+                <action android:name="com.gkmicro.fightagainstcovid_2019" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+       </manifest>
